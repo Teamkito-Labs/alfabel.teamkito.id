@@ -1,4 +1,4 @@
-# Alfabel
+# Alfabel (Aplikasi Difabel)
 
 **Alfabel** adalah aplikasi cerdas yang dirancang khusus untuk membantu tunanetra menjalani kehidupan sehari-hari dengan lebih mandiri. Aplikasi ini menawarkan berbagai fitur inovatif, termasuk:
 
